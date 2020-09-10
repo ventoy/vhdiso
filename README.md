@@ -1,0 +1,2 @@
+# vhdiso
+VHD boot template
